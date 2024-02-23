@@ -4,7 +4,6 @@
 
 <div align="left">
   <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d6552119730059.563339f76cc0b.gif"  />
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31um5ngkrdtdmevko2opuhfqjrua&width={width})
 </div>
 
 ###
@@ -105,5 +104,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Coding-Ghostman/Coding-Ghostman/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31um5ngkrdtdmevko2opuhfqjrua">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31um5ngkrdtdmevko2opuhfqjrua&count=6&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
