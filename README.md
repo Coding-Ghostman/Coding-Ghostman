@@ -4,6 +4,7 @@
 
 <div align="left">
   <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d6552119730059.563339f76cc0b.gif"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31um5ngkrdtdmevko2opuhfqjrua&width={width})
 </div>
 
 ###
